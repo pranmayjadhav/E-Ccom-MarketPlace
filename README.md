@@ -20,9 +20,8 @@ This project is a **full-stack web application** demonstrating the **Backend for
 ## 🔧 Setup Instructions  
 
 ### **1️⃣ Clone the Repository**  
-```sh
-git clone [GitHub Repo URL]
-cd backend-for-frontend
+git clone https://github.com/pranmayjadhav/E-Ccom-MarketPlace.git
+cd E-Ccom-MarketPlace
 2️⃣ Run the Backend (Spring Boot)
 Open the backend/ directory
 
